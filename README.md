@@ -59,14 +59,11 @@ This project was developed collaboratively by:
 
 **Important Notice:** All content, images, and organizational details used in this project are for educational and demonstration purposes only. 
 
-▪️ Content sources include Google searches and fictional elements created for demonstration
-▪️ We do not own or claim ownership of any real organizational information used
-▪️ Some details are real while others are fictional - all used purely for academic project purposes
-▪️ This is not an official website for any actual Green World Organization
+- Content sources include Google searches and fictional elements created for demonstration
+- We do not own or claim ownership of any real organizational information used
+- Some details are real while others are fictional - all used purely for academic project purposes
+- This is not an official website for any actual Green World Organization
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌱 Environmental Impact
 
