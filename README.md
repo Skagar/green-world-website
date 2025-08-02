@@ -39,9 +39,6 @@ Green World Organization is a comprehensive website designed to showcase an envi
 green-world-website/
 │
 ├── index.html          # Main HTML file
-├── assets/
-│   ├── images/         # Image files and logos
-│   └── favicon.ico     # Website icon
 ├── README.md           # Project documentation
 └── LICENSE             # License file
 ```
@@ -85,8 +82,8 @@ The website is a static HTML page that can be:
 
 This project was developed collaboratively by:
 
-▪️ **Akshita Garg** - Co-developer and design contributor
-▪️ **Vansh Garg** - Co-developer and technical implementation
+▪️ **Akshita Garg** - Co-developer
+▪️ **Vansh Garg** - Co-developer
 
 ## ⚠️ Disclaimer
 
