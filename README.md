@@ -2,18 +2,6 @@
 
 A responsive environmental awareness website built with pure HTML5 and CSS3 for educational purposes.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Team](#team)
-- [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌿 Overview
 
 Green World Organization is a comprehensive website designed to showcase an environmental non-profit platform dedicated to protecting our planet through various initiatives including reforestation, eco-agriculture, and community education programs.
@@ -42,24 +30,6 @@ green-world-website/
 ├── README.md           # Project documentation
 └── LICENSE             # License file
 ```
-
-## 🚀 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Skagar/green-world-website.git
-   ```
-
-2. **Navigate to project directory**
-   ```bash
-   cd green-world-website
-   ```
-
-3. **Open in browser**
-   ```bash
-   open index.html
-   ```
-   Or simply double-click the `index.html` file to view in your browser.
 
 ## 💻 Usage
 
@@ -93,16 +63,6 @@ This project was developed collaboratively by:
 ▪️ We do not own or claim ownership of any real organizational information used
 ▪️ Some details are real while others are fictional - all used purely for academic project purposes
 ▪️ This is not an official website for any actual Green World Organization
-
-## 🤝 Contributing
-
-This is an educational project, but contributions are welcome! Please feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
